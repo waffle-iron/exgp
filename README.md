@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/exgp/exgp.png?label=ready&title=Ready)](https://waffle.io/exgp/exgp)
 # ExGP
 
 ExGP is a game platform implemented in Elixir to make it easily scalable, distributable, and fault tolerant. The platform consists of a collection of services, each with their own responsibilities. These services are listed below:
